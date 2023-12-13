@@ -3,8 +3,7 @@ I’m Sunny. I'm currently working on developing my coding skills and Computer S
 # ⌨️ I know a bit of
 Java, C++
 # 📖 I'm Currently Learning
-HTML, CSS, JavaScript with The Odin Project.
-
+Java and Android Development
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
