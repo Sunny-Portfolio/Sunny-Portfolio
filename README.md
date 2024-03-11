@@ -1,9 +1,9 @@
 # 👋 Hi! 你好! はじめまして! Hola!
 I’m Sunny. I'm currently working on developing my coding skills and Computer Science knowledge to become a full-time software developer.
 # ⌨️ I know a bit of
-Java, C++
+Java, C++, Kotlin, Python, C#
 # 📖 I'm Currently Learning
-Java and Android Development
+Python development
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
