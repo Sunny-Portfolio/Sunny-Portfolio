@@ -1,4 +1,4 @@
-# 👋 Hi! 你好! はじめまして! Hola!
+# 👋 Hi! 你好! Bonjour! はじめまして! Hola!
 I’m Sunny. I'm currently working on developing my coding skills and Computer Science knowledge to become a full-time software developer.
 # ⌨️ I know a bit of
 Java, C++, Kotlin, Python, C#
